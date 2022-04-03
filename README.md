@@ -107,5 +107,34 @@ If new user signup today from this link [JLCPCB](https://jlcpcb.com/IAT ) you wi
 
 ![image](https://user-images.githubusercontent.com/19898602/141071633-e43a08d0-f190-475a-ba19-5ea6651bfa5c.png)
 
+![image](https://user-images.githubusercontent.com/19898602/159014034-3c9a50c3-61c3-40d2-836d-9cadc2317d33.png)
+
+
+SMT Assembly service of [JLCPCB.com](https://jlcpcb.com/IAT) is cherry on top now get your PCB fully assembled and save your time and money
+Select components for your PCB from there Parts Library of 200k+ in-stock components
+they are offering $27 valued New User coupons  & $24 SMT coupons every month
+$8.00 setup fee, and $0.0017  per joint
+
+Now no need to order components separately for you PCB and get free from stress of soldering them on PCB just try PCB SMT assembly service and get you PCB with components pre assembled and ready for the project
+
+
+👉 Try PCBA service of [JLCPCB.com](https://jlcpcb.com/IAT) and save your time and money, get PCB ready for project, 200K+ components in library of [JLCPCB.com](https://jlcpcb.com/IAT) as well as 3rd party         parts to choose from. 
+    Assembly will support 10M+ parts from Digikey, mouser
+    
+👉 $27 valued New User coupons 
+
+👉 $24 SMT coupons every month
+
+
+For more detials & offers please visit [JLCPCB.com](https://jlcpcb.com/IAT)
+
+
+[Click here to visit JLCPCB.com](https://jlcpcb.com/IAT)
+
+# HOW TO ORDER PCB FROM [JLCPCB.com](https://jlcpcb.com/IAT)
+
+![TinyProbe - Simple Logic Probe - ATtiny13A (1)_1](https://user-images.githubusercontent.com/19898602/161423592-ab74d959-b412-4c82-8af1-d26c57d794fd.gif)
+
+
 ![MVI_0002](https://user-images.githubusercontent.com/19898602/141072000-a6e4e421-8918-4906-8dd6-092b5418463b.gif)
 
